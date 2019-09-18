@@ -6,7 +6,7 @@ permalink: /about/
 
 I like clouds that spin rapidly, develop stuff to make other's lives easier, coffee, and petting my cats all while listening to metal music. Seeing other people succeed knowing that I helped them makes me happy, and it's a reason why I do a lot of what I do these days.
 
-"*One life, one shot, give it all you got*" - Parkway Drive, Vice Grip
+"*One life, one shot, give it all you got*" - [Parkway Drive, Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R)
 
 ## Tutoring
 See tutoring page
