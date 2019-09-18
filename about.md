@@ -8,9 +8,6 @@ I like clouds that spin rapidly, develop stuff to make other's lives easier, cof
 
 *"One life, one shot, give it all you got"* - [Parkway Drive, Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R)
 
-## Tutoring
-See tutoring page
-
 ## Projects
 [PyNimbus](https://github.com/WxBDM/PyNimbus) - an open source Python API to simplify getting National Weather Service data.  
 [Tornado Talk](https://tornadotalk.com/) - a website for tornado history.  
