@@ -69,7 +69,7 @@ If yours looks like this, you’ve done all the steps correctly thus far! On the
 * Overlays: I would suggest you check what I have checked, as I found this setup to be the most useful during the summer months. Everything should be fairly self explanatory, except the “Momentum Xfer” setting. Momentum transfer occurs when the temperatures go up the dry adiabat to bring down the winds from a certain level (normally around 850mb). Generally, 75% of the winds mix down and reach the surface.
 * Convection: This tab allows you to display the LFC, LCL, CAPE, Convective Temperature, Elevated Cape and more on the skew-t.
 * Lake Effect: This tab is primarily used when the lakes are “turned on” for lake effect snow season.
-* *Alerts: I’ll be honest – I never use this tab, so I don’t know what it is.
+* Alerts: I’ll be honest – I never use this tab, so I don’t know what it is.
     CONRAD: Same thing as the alerts tab – I don’t use it, so I don’t know what it is. (Fun tidbit: click on the button that says “Don’t click”.)
 * Controls: This allows you to choose your frame speed when you loop the sounding, along with screenshot and export the sounding.
 
