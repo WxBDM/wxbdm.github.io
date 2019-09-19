@@ -14,7 +14,7 @@ I like clouds that spin rapidly, develop stuff to make other's lives easier, cof
 The Storm Report Severe Weather Tool - a web tool to aid in forecasting and planning process to aid company operations  
 
 ## Education
-In Progress: Software Engineering - Auburn University; expected Spring 2021  
+Software Engineering - Auburn University; expected Spring 2021  
 B.S. in Meteorology - Millersville University 2017
 
 ### Contact
