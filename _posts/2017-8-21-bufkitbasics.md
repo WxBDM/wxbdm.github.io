@@ -15,9 +15,9 @@ This is for BUFKIT 2017. This article may not be updated for any future versions
 
 If you haven’t download BUFKIT, you can download it [here](https://training.weather.gov/wdtd/tools/BUFKIT/bufkit19.zip) (direct download) and go through the installation process. Once you have it installed, open it up.
 
-![uright]({{ site.baseurl }}/images/2017-8-21-bufkitbasics/BUFKIT-2Blistings.png)
-
 ## Interface: Part 1
+
+![uright]({{ site.baseurl }}/images/2017-8-21-bufkitbasics/BUFKIT-2Blistings.png)
 
 In the top left, there is a “Done” button, along some text. The text in green are your models, while the text all the way on the right are the station identifiers. These are your stations that you have data imported for (we will discuss importing data later). Here, I have KLNS (Lancaster, PA), HGR (Hagerstown, MD), and a few others. You can have as many as you’d like here. The “Done” button is the equivalent of clicking the fancy red “x” in the upper right corner.
 
@@ -39,8 +39,10 @@ Getting the data is very easy and somewhat straight forward. Go ahead and click 
 2. [Iowa State Bufkit](http://www.meteor.iastate.edu/~ckarsten/bufkit/data/)
 
 Before continuing, I want to make mention that not every point on either site has model data available. You may need to pick and choose a different site depending upon what model you want to use.  
+
 __PENN STATE LINK:__ On the left side, you will see all the models .buf files they provide, along with each run time. The current model run is highlighted in green (this is what you want to choose). Go ahead and select the latest GFS model run. A new map will quickly load. Click on any station you’d like to. You’ll find yourself on a page with what seems like nonsense, which is what you want. Take note of the URL (be sure it ends in .buf).  
 __IOWA STATE LINK:__ Scroll down a little bit until you see a map. This map is interactive, unlike the Penn State map. Click on any dot you’d like to get a window to pop open. From there, go ahead and click on the most GFS run (if it’s available – if not, find another station). Now, you should be on a page with what looks like nonsense. Take note of the URL (be sure it ends in .buf)  
+
 Go up to the URL and copy it and then open BufGet. Now, let’s archive our data (because it’s always a great idea to archive it) by typing in “Archive on” (without the quotes). Hit enter twice. Now, paste that URL you copied not too long ago. Do note that “Archive on” should be highlighted in red. Yours should look similar to the picture below:
 
 ![script]({{ site.baseurl }}/images/2017-8-21-bufkitbasics/BUFKIT-2Barchive-2Bscreen.png)
@@ -67,7 +69,7 @@ If yours looks like this, you’ve done all the steps correctly thus far! On the
 * Overlays: I would suggest you check what I have checked, as I found this setup to be the most useful during the summer months. Everything should be fairly self explanatory, except the “Momentum Xfer” setting. Momentum transfer occurs when the temperatures go up the dry adiabat to bring down the winds from a certain level (normally around 850mb). Generally, 75% of the winds mix down and reach the surface.
 * Convection: This tab allows you to display the LFC, LCL, CAPE, Convective Temperature, Elevated Cape and more on the skew-t.
 * Lake Effect: This tab is primarily used when the lakes are “turned on” for lake effect snow season.
-* * Alerts: I’ll be honest – I never use this tab, so I don’t know what it is.
+* *Alerts: I’ll be honest – I never use this tab, so I don’t know what it is.
     CONRAD: Same thing as the alerts tab – I don’t use it, so I don’t know what it is. (Fun tidbit: click on the button that says “Don’t click”.)
 * Controls: This allows you to choose your frame speed when you loop the sounding, along with screenshot and export the sounding.
 
