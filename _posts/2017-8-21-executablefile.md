@@ -16,4 +16,3 @@ Now, navigate to where your file is. Suppose mine is on the desktop: `$cd /Users
 Now, use PyInstaller to create the executable file: `$pyinstaller --onefile myExecutable.py`
 
 After about 5 seconds or so, you should have 3 new folders and 2 files in the given directory. Your executable file is under the `dist` folder.
-
