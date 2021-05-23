@@ -23,11 +23,11 @@ Linked lists provide a way to dynamically store your data. Unlike arrays, we don
 
 Take a simple situation: appending a value (that is, add a value at the end of the array/linked list). In order to append a value with an array, you have to first create an empty array of the current size +1, copy the contents of that array, then add in the element at the end of the array: 
 
-![](/Users/Brandon/Documents/websites/wxbdm.github.io/images/2019-12-24-clinkedlists/array_copy.png)
+![]({{ site.baseurl }}/images/2019-12-24-clinkedlists/array_copy.png)
 
 With linked lists, you create a new "node" and reroute a pointer (or pointers for doubly linked list):
 
-![linked_list.png](/Users/Brandon/Documents/websites/wxbdm.github.io/images/2019-12-24-clinkedlists/linked_list.png)
+![linked_list.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/linked_list.png)
 
 In the most basic implementations, a node contains 2 attributes: a value and a pointer pointing to the next node (which is typically initialized to `null`). More complex nodes can, for example, contain a secondary pointer pointing backwards to the previous node (hence, doubly linked list).
 
@@ -276,11 +276,11 @@ u_int remove_node(int element, int_linked_list * list) {
 
 Here's an illustration of what's going on in all 3 remove scenarios:
 
-![remove_first.png](/Users/Brandon/Documents/websites/wxbdm.github.io/images/2019-12-24-clinkedlists/remove_first.png)
+![remove_first.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_first.png)
 
-![remove_last.png](/Users/Brandon/Documents/websites/wxbdm.github.io/images/2019-12-24-clinkedlists/remove_last.png)
+![remove_last.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_last.png)
 
-![remove_middle.png](/Users/Brandon/Documents/websites/wxbdm.github.io/images/2019-12-24-clinkedlists/remove_middle.png)
+![remove_middle.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_middle.png)
 
 However, it should be noted that in the implementation above, we keep the current pointer to the node we want to remove previous. That is, if we wanted to remove the node with element 2 in the above diagram, the "current" pointer will be pointing towards 1 instead, as there is no way to go backwards once you traverse forwards.
 
