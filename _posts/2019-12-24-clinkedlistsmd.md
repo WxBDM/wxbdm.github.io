@@ -278,11 +278,7 @@ Here's an illustration of what's going on in all 3 remove scenarios:
 
 ![remove_first.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_first.png)
 
-<br></br>
-
 ![remove_last.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_last.png)
-
-<br></br>
 
 ![remove_middle.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_middle.png)
 
@@ -290,7 +286,7 @@ However, it should be noted that in the implementation above, we keep the curren
 
 ### Section 4: My Implementation With Integration Into Your Project
 
-I have spent some time to make this integratable into your project with relative ease. The source code and explaination on how to go about doing this can be found on [GitHub]([https://github.com/WxBDM/c-linked-lists](https://github.com/WxBDM/c-linked-lists).
+I have spent some time to make this integratable into your project with relative ease. The source code and explaination on how to go about doing this can be found on [GitHub](https://github.com/WxBDM/c-linked-lists).
 
 In this mini-project, I included different kinds of linked lists: ordered and unordered, as well as allowing and not allowing duplicates. For ordered lists, you can also declare if it's going to be in ascending or descending order.
 
