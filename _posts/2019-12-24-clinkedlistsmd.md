@@ -278,7 +278,11 @@ Here's an illustration of what's going on in all 3 remove scenarios:
 
 ![remove_first.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_first.png)
 
+<br></br>
+
 ![remove_last.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_last.png)
+
+<br></br>
 
 ![remove_middle.png]({{ site.baseurl }}/images/2019-12-24-clinkedlists/remove_middle.png)
 
